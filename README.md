@@ -1,9 +1,11 @@
-# Prufugeymsla
-
-##undir fyrirsögn 
-
-###undir undir Fyrirsön
-
-*skaletrad
-
-**feitletrad
+# prufugeymsla
+ 
+## undirfyrirsogn
+ 
+### undirundirfyrirsogn
+ 
+*skaletrad*
+ 
+**feitletrad**
+ 
+![](nafnmyndaskrar)
